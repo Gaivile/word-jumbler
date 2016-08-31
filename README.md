@@ -1,14 +1,20 @@
-# word-jumbler
+# Word Jumbler
 
-A Clojure library designed to ... well, that part is up to you.
+Coding exercise to:
+
+    1) jumble middle letters in each word in the text;
+  
+    2) change vowels into underscores;
+  
+    3) shuffle vowels only and leave everything else in places.
+  
 
 ## Usage
 
-FIXME
+Run in REPL.
 
 ## License
 
-Copyright © 2016 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
